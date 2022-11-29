@@ -1,0 +1,578 @@
+ID,Cases,Facility_name,Facility_type,Ownership,Lat,Long,LL_source,Health_District
+1101,NA,Letsholathebe II Memorial District Hospital,District Hospital,Public,-19.98702,23.46295,WHO,Ngamiland East
+1102,2,Delta medical centre,NA,NA,-19.987738999999998,23.425787999999997,Jacq,Ngamiland East
+1301,NA,Global Mission Centre Clinic,Clinic,Public,-19.998009,23.416314,Jacq,Ngamiland East
+1302,1,Maun Prison Clinic,NA,NA,-19.982615,23.425016,Jacq,Ngamiland East
+1303,1,Maun Secondary School Clinic,Clinic,Public,-20.00597,23.42946,WHO,Ngamiland East
+1304,NA,Maun Clinic,Clinic,Public,-19.992043,23.417206,Ellie,Ngamiland East
+1305,NA,Sehitwa Clinic,Clinic,Public,-20.482001,22.697137,Ellie,Ngamiland East
+1307,NA,Shorobe Clinic,Clinic,Public,-19.769249,23.669477,Ellie,Ngamiland East
+1308,2,Boyei clinic,Clinic,Public,-19.9839578,23.41826983,WHO,Ngamiland East
+1309,NA,Makalamabedi Clinic,Clinic,Public,-20.328529,23.878884,Ellie,Ngamiland East
+1310,NA,Boseja clinic,Clinic,Public,-19.998743,23.435426,WHO,Ngamiland East
+1311,NA,Tsau Clinic,Clinic,Public,-20.168005,22.456896,Ellie,Ngamiland East
+1312,NA,Sedie Clinic,Clinic,Public,-19.960676,23.453728,Jacq,Ngamiland East
+1314,NA,Wilderness Safari Clinic,Clinic,Public,-19.977248,23.427419,Jacq,Ngamiland East
+1401,NA,Bothatogo Health Post,Health Post,Public,-20.5504341,22.7468258,WHO,Ngamiland East
+1402,1,Bodibeng Health Post,Health Post,Public,-20.627222,22.603056,WHO,Ngamiland East
+1403,1,Chanoga Health Post,Health Post,Public,-20.1555,23.6574,WHO,Ngamiland East
+1404,NA,Kubung Health Post,Health Post,Public,-24.648594,25.331984,Ellie,Ngamiland East
+1405,NA,Mababe Health Post,Health Post,Public,-19.180278,23.996944,WHO,Ngamiland East
+1406,NA,Semboyo Health Post,Health Post,Public,-20.279444,22.458333,WHO,Ngamiland East
+1407,NA,Kareng Health Post,Health Post,Public,-20.626944,22.328333,WHO,Ngamiland East
+1408,NA,Toteng Health Post,Health Post,Public,-20.357619,22.960736,Jacq,Ngamiland East
+1409,NA,Komana Health Post,Health Post,Public,-20.1944719,23.2248263,WHO,Ngamiland East
+1410,NA,Makakung Health Post,Health Post,Public,-20.3822267,22.3333545,WHO,Ngamiland East
+1411,NA,Matlapana Health Post,Health Post,Public,-19.926989,23.515123,WHO,Ngamiland East
+1412,1,Phuduhudu Health Post,Health Post,Public,-20.195278,24.536389,WHO,Ngamiland East
+1413,NA,Sankoyo Health Post,Health Post,Public,-19.428611,23.874444,WHO,Ngamiland East
+1414,NA,Boseja Kubung Health Post,Health Post,Public,-20.02172,23.39997,Jacq,Ngamiland East
+1415,NA,Somelo Health Post,Health Post,Public,-20.430708,23.32808,WHO,Ngamiland East
+1418,2,Disana health Post,Health Post,Public,-19.98289,23.470339,Jacq,Ngamiland East
+1419,NA,Shashe Health Post,Health Post,Public,-19.983333,23.4,WHO,Ngamiland East
+1420,NA,Thamalakane Health Post,Health Post,Public,-19.9928162055,23.4240198151,WHO,Ngamiland East
+2201,NA,Masunga Primary Hospital,Primary Hospital,Public,-20.616509,27.442032,Ellie,North East
+2301,NA,Makaleng Clinic,Clinic,Public,-20.797053,27.266843,Jacq,North East
+2302,NA,Mapoka Clinic,Clinic,Public,-20.53665,27.590194,Ellie,North East
+2303,NA,Masunga Clinic,Clinic,Public,-20.623425,27.445913,Ellie,North East
+2305,NA,Tsamaya Clinic,Clinic,Public,-20.836807,27.627248,Jacq,North East
+2306,1,Selkirk Clinic/ Tati Nickel Mine Clinic,NA,NA,-21.204772000000002,27.781948,Jacq,North East
+2307,NA,Sekakangwe Clinic,Clinic,Public,-20.541907,27.323468,Ellie,North East
+2309,NA,Themashanga Clinic,Clinic,Public,-20.8007,27.5513,WHO,North East
+2310,NA,Nlapkhwane Clinic,Clinic,Public,-20.5148049534,27.5187053927,WHO,North East
+2312,NA,Ramakgwebana Clinic,Clinic,Public,-20.586811,27.64561,Ellie,North East
+2313,NA,Moroka Clinic,Clinic,Public,-20.533619,27.650526,WHO,North East
+2314,NA,Tshesebe Clinic,Clinic,Public,-20.726992,27.582533,Ellie,North East
+2401,NA,Butale Health Post,Health Post,Public,-20.681501,27.694742,Jacq,North East
+2402,NA,Gambule Health Post,Health Post,Public,-20.560775,27.393934,Jacq,North East
+2403,NA,Gulubane Health Post,Health Post,Public,-20.867212,27.229185,Jacq,North East
+2404,NA,Jackalas 1 Health Post,Health Post,Public,-20.569276,27.710364,Ellie,North East
+2405,NA,Jackalas 2 Health Post,Health Post,Public,-20.9541960524,27.6806711709,WHO,North East
+2406,NA,Kalakamati Health Post,Health Post,Public,-20.59652,27.312747,Ellie,North East
+2407,NA,Mbalambi Health Post,Health Post,Public,-20.492854,27.347861,Jacq,North East
+2409,NA,Mosojane Health Post,Health Post,Public,-20.6224277519,27.5175435771,WHO,North East
+2410,NA,Matenge Health Post,Health Post,Public,-20.8526033626,27.2635983978,WHO,North East
+2412,1,Sechele Health Post,Health Post,Public,-20.7585557268,27.3563891672,WHO,North East
+2413,NA,Matopi Health Post,Health Post,Public,-21.4841,27.937797,WHO,North East
+2414,NA,Senyawe Health Post,Health Post,Public,-20.765193,27.690703,Ellie,North East
+2415,2,Siviya Health Post,Health Post,Public,-20.856402,27.67437,WHO,North East
+2416,1,Pole Health Post,Health Post,Public,-20.6084838952,27.5565433502,WHO,North East
+2417,NA,Masukwane Health Post,Health Post,Public,-20.5912051626,27.5500243739,WHO,North East
+2418,NA,Mabudzane Health Post,Health Post,Public,-20.9107167737,27.6294958801,WHO,North East
+2419,NA,Zwenshambe Health Post,Health Post,Public,-20.505941,27.435915,WHO,North East
+2422,NA,Botalaote Toteng Health Post,Health Post,Public,-20.752571,27.248758,Jacq,North East
+2423,NA,Letsholathebe Health Post,Health Post,Public,-20.6819652484,27.4385865521,WHO,North East
+2424,1,Masingwaneng Health Post,Health Post,Public,-20.8498536793,27.3216296662,WHO,North East
+2425,1,Kgari Health Post,Health Post,Public,-20.5811052208,27.6105852169,WHO,North East
+2426,NA,Mulambakwena Health Post,Health Post,Public,-20.5692143176,27.4585822527,WHO,North East
+2427,1,Mowana Health Post,Health Post,Public,-20.752236,27.599576,WHO,North East
+2428,1,Mambo Health Post,Health Post,Public,-20.7975240329,27.3320133355,WHO,North East
+2429,NA,Gungwe Health Post,Health Post,Public,-20.494587,27.378614,Jacq,North East
+3201,NA,Palapye Primary Hospital,Primary Hospital,Public,-22.5524,27.13083,WHO,Palapye
+3303,NA,Lerala Clinic,Clinic,Public,-22.792195,27.762706,Ellie,Palapye
+3304,NA,Maunatlala Clinic,Clinic,Public,-22.597007,27.630057,WHO,Palapye
+3306,NA,Morupule Colliary Clinic,Clinic,Public,-22.507117,27.026445,WHO,Palapye
+3310,NA,Maokatumo Clinic,Clinic,Public,-22.379206,27.578044,Ellie,Palapye
+3313,NA,Lotsane Clinic,Clinic,Public,-22.543716,27.134753,Ellie,Palapye
+3315,NA,Radisele Clinic,Clinic,Public,-22.801408,27.003079,Ellie,Palapye
+3316,NA,Lecheng Clinic,Clinic,Public,-22.665208,27.219975,WHO,Palapye
+3319,NA,Kediretswe Clinic,Clinic,Public,-22.54346,27.10179,WHO,Palapye
+3320,NA,Extension 3 Clinic,Clinic,Public,-22.543716,27.134753,Ellie,Palapye
+3322,NA,Khurumela Clinic,Clinic,Public,-22.56554,27.08728,WHO,Palapye
+3401,NA,Gootau Health Post,Health Post,Public,-22.726752,27.422597,WHO,Palapye
+3403,2,Goosekgweng Health Post,Health Post,Public,-22.725139,27.393048,WHO,Palapye
+3404,NA,Lesenepole(Matolwane) Health Post,Health Post,Public,-22.520104,27.536652,Ellie,Palapye
+3405,NA,Moreomabele Health Post,Health Post,Public,-22.051155,27.271725,WHO,Palapye
+3406,NA,Moeng College Health Post,Health Post,Public,-22.67914,27.614479,WHO,Palapye
+3407,2,Majwaneng Health Post,Health Post,Public,-22.752745,27.632053,Jacq,Palapye
+3408,1,Malaka Health Post,Health Post,Public,-22.6155,27.329398,WHO,Palapye
+3409,NA,Manaledi Health Post,Health Post,Public,-22.714904,27.480878,Jacq,Palapye
+3414,4,Ratholo Health Post,Health Post,Public,-22.722246,27.576789,Jacq,Palapye
+3415,4,Seolwane Health Post,Health Post,Public,-22.6495,27.695847,WHO,Palapye
+3416,3,Tamasane Health Post,Health Post,Public,-22.4150929,27.4002265,WHO,Palapye
+3418,NA,Topisi Health Post,Health Post,Public,-22.180278,27.251944,WHO,Palapye
+3421,2,Mokokwana/Mosweu Health Post,Health Post,Public,-22.646678,27.633461,Jacq,Palapye
+3422,1,Moremi Health Post,Health Post,Public,-22.572341,27.450583,WHO,Palapye
+3423,NA,Mogome Health Post,Health Post,Public,-22.807988,26.999261,Jacq,Palapye
+3424,3,Mokgware Health Post,Health Post,Public,-22.769789,26.796041,WHO,Palapye
+3432,3,Mogapi Health Post,Health Post,Public,-22.323012,27.834923,WHO,Palapye
+3501,4,Dr Oriokot,Private Practitioner,NA,-22.555833,27.134000000000004,Jacq,Palapye
+3506,2,Dr Sherif,NA,NA,-22.541094000000005,27.091636,Jacq,Palapye
+4201,NA,Bobonong Primary Hospital,Primary Hospital,Public,-21.981633,28.413917,WHO,Bobirwa
+4202,NA,Mmadinare Primary Hospital,Primary Hospital,Public,-21.868752,27.754507,Ellie,Bobirwa
+4301,NA,Mathathane Clinic,Clinic,Public,-22.268,28.75,WHO,Bobirwa
+4302,NA,Sefhophe Clinic,Clinic,Public,-22.18169,27.963408,Ellie,Bobirwa
+4303,2,Selibe Phikwe BDF Clinic,NA,NA,-21.921207000000003,27.848095999999998,Jacq,Bobirwa
+4304,1,Selibe Phikwe Prisons Clinic,NA,NA,-21.919362,27.863668999999998,Jacq,Bobirwa
+4305,NA,Semolale Clinic,Clinic,Public,-21.87377,28.82842,WHO,Bobirwa
+4306,NA,Tsetsejwe Clinic,Clinic,Public,-22.415313,28.394753,WHO,Bobirwa
+4307,NA,Manga Clinic,Clinic,Public,-21.875941,27.737588,WHO,Bobirwa
+4308,NA,Borotsi Clinic,Clinic,Public,-21.963654,28.415483,WHO,Bobirwa
+4402,3,Lepokole Health Post,Health Post,Public,-21.794722,28.349444,WHO,Bobirwa
+4404,NA,Gobojango Health Post,Health Post,Public,-21.83199,28.73021,WHO,Bobirwa
+4405,1,Lentswelemoriti Health Post,Health Post,Public,-22.2053949,29.0365219,WHO,Bobirwa
+4406,NA,Robelela Health Post,Health Post,Public,-21.5902,27.985,WHO,Bobirwa
+4409,NA,Molalatau Health Post,Health Post,Public,-22.07369,28.59825,WHO,Bobirwa
+4410,NA,Moletemane Health Post,Health Post,Public,-22.512684,28.24216,Ellie,Bobirwa
+4411,2,Tshokwe Health Post,Health Post,Public,-21.7441,28.1167,WHO,Bobirwa
+4412,NA,Tobane Health Post,Health Post,Public,-21.90701,28.04185,WHO,Bobirwa
+4413,NA,Motlhabaneng Health Post,Health Post,Public,-22.177967,28.872217,WHO,Bobirwa
+4414,2,Mabolwe Health Post,Health Post,Public,-21.823056,28.838056,WHO,Bobirwa
+5101,NA,Scottish Livingstone District Hospital,District Hospital,MoH,-24.412023,25.486736,WHO,Kweneng East
+5102,NA,Bokamoso Private Hospital,NA,NA,-24.581290989,25.840115285000003,WHO,Kweneng East
+5201,NA,Thamaga Primary Hospital,Primary Hospital,Public,-24.667117,25.534782,Ellie,Kweneng East
+5302,NA,Borakalalo Clinic,Clinic,Public,-24.408685,25.494386,Ellie,Kweneng East
+5303,NA,Boribamo Clinic,Clinic,Public,-24.380176,25.519439,Jacq,Kweneng East
+5305,NA,Kgosing Clinic,Clinic,Public,-24.408331,25.515288,Ellie,Kweneng East
+5306,NA,Kopong Clinic,Clinic,Public,-24.472209,25.890901,Ellie,Kweneng East
+5307,NA,Lentsweletau Clinic,Clinic,Public,-24.253686,25.851642,Ellie,Kweneng East
+5308,NA,Lephephe Clinic,Clinic,Public,-23.3583291,25.85302,WHO,Kweneng East
+5310,11,Mmankgodi Clinic,Clinic,Public,-24.726011,25.649631,WHO,Kweneng East
+5313,NA,Molepolole Clinic,Clinic,Public,-24.401713,25.513341,Ellie,Kweneng East
+5315,NA,Molepolole College of Education Clinic,Clinic,Public,-24.405978,25.490539,Ellie,Kweneng East
+5317,NA,Molepolole Prison Clinic,NA,NA,-24.389417790000003,25.478504516000005,Ellie,Kweneng East
+5318,NA,Phuthadikobo Clinic,Clinic,Public,-24.37686,25.54479,WHO,Kweneng East
+5319,NA,Sojwe Clinic,Clinic,Public,-23.437315,25.746853,Ellie,Kweneng East
+5320,NA,Thamaga Clinic,Clinic,Public,-24.67804,25.539023,Ellie,Kweneng East
+5321,NA,Ikago Clinic,Clinic,Public,-24.41984,25.46686,WHO,Kweneng East
+5323,NA,Boswelakoko/Borakalalo New Clinic,Clinic,Public,-24.394453,25.496722,Ellie,Kweneng East
+5401,2,Boatlaname Health Post,Health Post,Public,-23.603056,25.822222,WHO,Kweneng East
+5402,NA,Gakgatla Health Post,Health Post,Public,-24.544003,25.616317,Ellie,Kweneng East
+5403,3,Gakutlo Health Post,Health Post,Public,-24.4702,25.7916,WHO,Kweneng East
+5404,1,Gamodubu Health Post,Health Post,Public,-24.507756,25.703351,Jacq,Kweneng East
+5405,1,Hatsalatladi Health Post,Health Post,Public,-24.137942,25.594239,Jacq,Kweneng East
+5406,2,Kgope Health Post,Health Post,Public,-24.310278,25.914722,WHO,Kweneng East
+5407,NA,Kubung Health Post,Health Post,Public,-24.633039,25.308704,WHO,Kweneng East
+5408,NA,Kumakwane Health Post,Health Post,Public,-24.65522,25.699176,WHO,Kweneng East
+5409,1,Lesilakgokong Health Post,Health Post,Public,-24.56987,25.33594,WHO,Kweneng East
+5410,NA,Mahetwe Health Post,Health Post,Public,-24.239722,25.676389,WHO,Kweneng East
+5411,1,Medie Health Post,Health Post,Public,-24.0670856,25.8655941,WHO,Kweneng East
+5413,NA,Phuting Health Post,Health Post,Public,-24.665825,25.557244,Ellie,Kweneng East
+5414,1,Shadishadi Health Post,Health Post,Public,-23.477961,25.667648,Jacq,Kweneng East
+5416,NA,Mogonono Health Post,Health Post,Public,-24.376214,25.4628,Jacq,Kweneng East
+5417,NA,Ditshukudu Health Post,Health Post,Public,-24.312158,25.755351,Jacq,Kweneng East
+5418,NA,Kweneng Health Post,Health Post,Public,-23.898611,25.956389,WHO,Kweneng East
+5419,NA,Lekgwapeng Health Post,Health Post,Public,-24.398797,25.469519,Ellie,Kweneng East
+5420,NA,Magokotswane Health Post,Health Post,Public,-24.399277,25.572473,Ellie,Kweneng East
+5421,1,Mmanoko Health Post,Health Post,Public,-24.476535,25.664598,Jacq,Kweneng East
+5422,2,Mmatseta Health Post,Health Post,Public,-24.5157,25.862,WHO,Kweneng East
+5424,NA,Rungwana Health Post,Health Post,Public,-24.685091,25.542047,Ellie,Kweneng East
+6101,NA,S.D.A Kanye District Hospital,District Hospital,FBO,-24.972832,25.342319,Ellie,Kanye (Southern)
+6301,NA,Kanye Main Clinic,Clinic,Public,-24.983748,25.340962,Ellie,Kanye (Southern)
+6302,NA,Kgwatleng Clinic,Clinic,Public,-24.976391,25.320821,Jacq,Kanye (Southern)
+6303,NA,Mahikana Clinic,Clinic,Public,-24.995755,25.356447,WHO,Kanye (Southern)
+6306,4,Mmamokhasi Clinic,Clinic,Public,-24.983333,25.35,WHO,Kanye (Southern)
+6307,NA,Lotlhakane East,Clinic,Public,-25.081406,25.451858,Scott,Kanye (Southern)
+6401,5,Sebego Health post,Health Post,Public,-24.995879999999996,25.344842,Jacq,Kanye (Southern)
+6404,1,Moshaneng Health Post,Health Post,Public,-24.9072056085,25.2362335305,WHO,Kanye (Southern)
+6405,NA,Dipotsana Health Post,Health Post,Public,-25.2350611111,25.4224888889,WHO,Kanye (Southern)
+6406,NA,Diabo Health Post,Health Post,Public,-25.1995449335,25.3655527178,WHO,Kanye (Southern)
+6407,4,Segwagwa Health Post,Health Post,Public,-25.1906915482,25.1740942913,WHO,Kanye (Southern)
+6408,1,Lorolwana Health Post,Health Post,Public,-25.321263411,24.4801250954,WHO,Kanye (Southern)
+6410,NA,Selokolela Health Post,Health Post,Public,-24.956746,25.11523,Ellie,Kanye (Southern)
+6501,1,Dr C.M. Matlhare,Private Practitioner,NA,-24.977359999999997,25.338424,Jacq,Kanye (Southern)
+7201,NA,Gantsi Primary Hospital,Primary Hospital,Public,-21.71,21.6308333333,WHO,Gantsi
+7304,NA,Gantsi Clinic,Clinic,Public,-21.704232,21.643148,Ellie,Gantsi
+7305,NA,New Xade Clinic,Clinic,Public,-22.120562,22.414995,Ellie,Gantsi
+7401,NA,Bere Health Post,Health Post,Public,-22.821111,21.875,WHO,Gantsi
+7402,NA,D Kar Health Post,Health Post,Public,-21.518867,21.947157,Ellie,Gantsi
+7403,NA,Kacgae Health Post,Health Post,Public,-22.855411,22.206958,Ellie,Gantsi
+7408,2,West Hanahai Health Post,Health Post,Public,-22.1025,21.7725,WHO,Gantsi
+7409,NA,East Hanahai Health Post,Health Post,Public,-22.163614,21.853921,Jacq,Gantsi
+7413,NA,Grootlaagte Health Post,Health Post,Public,-21.360278,21.211389,WHO,Gantsi
+7415,1,Qabo Health Post,Health Post,Public,-21.064886,21.732302,WHO,Gantsi
+8101,NA,Mahalapye District Hospital,District Hospital,Public,-23.12958,26.79622,WHO,Mahalapye
+8201,NA,Sefhare Primary Hospital,Primary Hospital,Public,-23.023204,27.515624,WHO,Mahalapye
+8301,NA,Xhosa Clinic,Clinic,Public,-23.136217,26.841436,Ellie,Mahalapye
+8302,NA,Machaneng Clinic,Clinic,Public,-23.18621,27.488558,WHO,Mahalapye
+8304,2,Mookane Clinic,Clinic,Public,-23.688051,26.659478,WHO,Mahalapye
+8305,2,Pilikwe Clinic,Clinic,Public,-22.7941,27.233,Jacq,Mahalapye
+8306,NA,Ramokgonami Clinic,Clinic,Public,-22.864557,27.420884,Ellie,Mahalapye
+8307,NA,Kalamare Clinic,Clinic,Public,-22.932029,26.569633,Ellie,Mahalapye
+8308,NA,Shoshong Clinic,Clinic,Public,-23.031265,26.509144,Ellie,Mahalapye
+8310,NA,Air Strip Clinic,Clinic,Public,-23.115398,26.824232,Ellie,Mahalapye
+8312,NA,Tumasera-Seleka Clinic,Clinic,Public,-22.88547,27.51459,WHO,Mahalapye
+8314,NA,New Shoshong/ ( Sheleketla) Clinic,Clinic,Public,-23.033098,26.515005,Ellie,Mahalapye
+8315,NA,Chadibe Clinic,Clinic,Public,-23.049138,27.579849,Ellie,Mahalapye
+8401,NA,Tewane Health Post,Health Post,Public,-22.851944,26.903056,WHO,Mahalapye
+8402,NA,Bonwapitse Health Post,Health Post,Public,-23.077637,26.703749,WHO,Mahalapye
+8403,1,Moralane Health Post,Health Post,Public,-22.949286,26.240326,Jacq,Mahalapye
+8404,NA,Dibete Health Post,Health Post,Public,-23.7478,26.471074,WHO,Mahalapye
+8405,NA,Dovedale Health Post,Health Post,Public,-23.523611,27.044167,WHO,Mahalapye
+8406,NA,Mowana Health Post,Health Post,Public,-23.139957,26.815668,Jacq,Mahalapye
+8407,1,Ikongwe Health Post,Health Post,Public,-23.135625,26.422694,WHO,Mahalapye
+8408,1,Mokgenene Health Post,Health Post,Public,-23.54093,26.024607,Jacq,Mahalapye
+8409,3,Kodibeleng Health Post,Health Post,Public,-23.1227,26.1949,WHO,Mahalapye
+8410,1,Kudumatse Health Post,Health Post,Public,-23.413969,27.145371,Jacq,Mahalapye
+8413,NA,Maape Health Post,Health Post,Public,-22.85696,27.293726,Jacq,Mahalapye
+8414,4,Makwate Health Post,Health Post,Public,-23.301937,27.277561,WHO,Mahalapye
+8415,NA,Madiba Health Post,Health Post,Public,-23.079294,26.821336,WHO,Mahalapye
+8416,2,Mmaphashalala Health Post,Health Post,Public,-23.6475,26.823611,WHO,Mahalapye
+8417,NA,Mmutlane Health Post,Health Post,Public,-23.046445,26.576941,Jacq,Mahalapye
+8418,1,Mhalapitsa Health Post,Health Post,Public,-22.799,27.1938,Jacq,Mahalapye
+8419,NA,Mokoswane Health Post,Health Post,Public,-23.307417,26.988022,Jacq,Mahalapye
+8420,NA,Mokobeng Health Post,Health Post,Public,-22.996373,27.667659,WHO,Mahalapye
+8421,2,Moshopha Health Post,Health Post,Public,-22.9507,27.3747,WHO,Mahalapye
+8422,NA,Mosolotshane Health Post,Health Post,Public,-22.937089,26.378914,WHO,Mahalapye
+8423,NA,Ngwapa Health Post,Health Post,Public,-23.0059,27.7486,WHO,Mahalapye
+8424,NA,Palla Road Health Post,Health Post,Public,-23.406301,26.69523,Jacq,Mahalapye
+8425,1,Poloka Health Post,Health Post,Public,-23.597814,26.285104,WHO,Mahalapye
+8426,7,Otse Health Post,Health Post,Public,-23.326732973,25.8671185952,WHO,Mahalapye
+8427,NA,Matlhako Health Post,Health Post,Public,-23.11682,27.565912,Jacq,Mahalapye
+8428,1,Shakwe Health Post,Health Post,Public,-23.1065,27.1508,WHO,Mahalapye
+8429,1,Taupye Health Post,Health Post,Public,-23.127222,26.963056,WHO,Mahalapye
+9101,NA,Deborah Retief Memorial District Hospital,District Hospital,Public,-24.38335,26.14712,WHO,Kgatleng
+9301,NA,Artesia Clinic,Clinic,Public,-24.01405,26.311174,Ellie,Kgatleng
+9302,NA,Bokaa Clinic,Clinic,Public,-24.425398,26.020801,Ellie,Kgatleng
+9303,NA,Mathubudukwane Clinic,Clinic,Public,-24.610975,26.440672,Ellie,Kgatleng
+9304,NA,Mochudi Clinic 1,Clinic,Public,-24.39591,26.1429,WHO,Kgatleng
+9305,NA,Mochudi Clinic 2,Clinic,Public,-24.373962,26.161235,Ellie,Kgatleng
+9306,2,Oliphants Drift Clinic,Clinic,Public,-24.180015,26.849621,WHO,Kgatleng
+9307,NA,Oodi Clinic,Clinic,Public,-24.570674,26.03637,Ellie,Kgatleng
+9310,NA,Phaphane Clinic,Clinic,Public,-24.398249,26.105634,Ellie,Kgatleng
+9311,NA,Morwa Clinic,Clinic,Public,-24.42278,26.0854,WHO,Kgatleng
+9312,3,Boseja Clinic 2,Clinic,Public,-24.42198,26.13872,WHO,Kgatleng
+9313,NA,Malolwane Clinic,Clinic,Public,-24.548786,26.471903,Ellie,Kgatleng
+9314,NA,Rasesa Clinic,Clinic,Public,-24.37023,26.08036,WHO,Kgatleng
+9402,3,Ramonaka Health Post,Health Post,Public,-24.578981,26.465458,WHO,Kgatleng
+9403,NA,Dikgonnye Health Post,Health Post,Public,-24.140083,26.005985,Jacq,Kgatleng
+9404,NA,Dikwididi Health Post,Health Post,Public,-24.596389,26.219167,WHO,Kgatleng
+9405,NA,Kgomodiatshaba Health Post,Health Post,Public,-23.663326,26.072481,Jacq,Kgatleng
+9406,NA,Khurutshe Health Post,Health Post,Public,-23.734444,26.181667,WHO,Kgatleng
+9407,1,Leshibitse Health Post,Health Post,Public,-23.832486,26.463735,WHO,Kgatleng
+9409,1,Malotwana Health Post,Health Post,Public,-24.296896,26.16356,Jacq,Kgatleng
+9410,3,Matebele Health Post,Health Post,Public,-24.541944,26.039722,WHO,Kgatleng
+9411,1,Modipane Health Post,Health Post,Public,-24.620278,26.123056,WHO,Kgatleng
+9413,NA,Pilane Health Post,Health Post,Public,-24.408193,26.080191,Jacq,Kgatleng
+9414,NA,Ramotlabaki Health Post,Health Post,Public,-23.8525,26.9225,WHO,Kgatleng
+9415,NA,Rasesa Health Post,Health Post,Public,-24.375144,26.076963,WHO,Kgatleng
+9416,4,Sikwane Health Post,Health Post,Public,-24.633333,26.4,WHO,Kgatleng
+9418,2,Makgophana Health Post,Health Post,Public,-24.389897,26.179836,Jacq,Kgatleng
+9501,4,Dr Bethuel- Jubert Medical Centre,NA,NA,-24.376777999999998,26.152306,Jacq,Kgatleng
+10201,NA,Kasane Primary Hospital,Primary Hospital,Public,-17.8013376,25.1493165,WHO,Chobe
+10301,NA,Kachikau Clinic,Clinic,Public,-18.152098,24.503935,Ellie,Chobe
+10302,NA,Pandamatenga clinic,Clinic,Public,-18.535042,25.6603426,WHO,Chobe
+10402,4,Lesoma Health Post,Health Post,Public,-17.9029744,25.2243679,WHO,Chobe
+10403,NA,Kavimba Health Post,Health Post,Public,-18.072222,24.585278,WHO,Chobe
+10404,2,Mabale Health Post,Health Post,Public,-17.984397,24.653686,Jacq,Chobe
+10405,NA,Kazungula Health Post,Health Post,Public,-17.803889,25.241111,WHO,Chobe
+10407,NA,Satau Health Post,Health Post,Public,-18.0125,24.406111,WHO,Chobe
+10408,NA,Parakarangu Health Post,Health Post,Public,-18.03983,24.317718,Ellie,Chobe
+10409,NA,Kasane Health Post,Health Post,Public,-17.798996,25.153714,Ellie,Chobe
+10410,1,Kazungula BDF Health Post,NA,NA,-17.803173,25.243506000000004,Jacq,Chobe
+10411,NA,Plateau Health Post,Health Post,Public,-17.799689,25.162545,Ellie,Chobe
+11201,NA,Tsabong Primary Hospital,Primary Hospital,Public,-26.0237,22.40038,WHO,Kgalagadi South
+11301,NA,Bokspits Clinic,Clinic,Public,-26.888722,20.70016,Scott,Kgalagadi South
+11302,NA,Hereford /Bray Clinic,Clinic,Public,-25.451266,23.7103548,WHO,Kgalagadi South
+11303,NA,Middlepits clinic,Clinic,Public,-26.6547143,21.8891933,WHO,Kgalagadi South
+11304,NA,Makopong Clinic,Clinic,Public,-25.3312067,22.9794073,WHO,Kgalagadi South
+11305,NA,Werda Clinic,Clinic,Public,-25.27012,23.27589,WHO,Kgalagadi South
+11306,NA,Tsabong Clinic,Clinic,Public,-26.006556,22.412753,Ellie,Kgalagadi South
+11401,2,Gakhibane Health Post,Health Post,Public,-26.712819,21.768467,Jacq,Kgalagadi South
+11402,NA,Khisa Health Post,Health Post,Public,-25.70782,22.689557,Jacq,Kgalagadi South
+11404,NA,Khuis Health Post,Health Post,Public,-26.656449,21.839456,Jacq,Kgalagadi South
+11405,NA,Omaweneno Health Post,Health Post,Public,-25.761667,22.569167,WHO,Kgalagadi South
+11407,NA,Rappels pan Health Post,Health Post,Public,-26.824218,20.8156642,WHO,Kgalagadi South
+11408,1,Struizendam Health Post,Health Post,Public,-26.671588,20.631013,Jacq,Kgalagadi South
+11410,1,Maubelo Health Post,Health Post,Public,-26.077222,22.3775,WHO,Kgalagadi South
+11411,NA,Maralaleng Health Post,Health Post,Public,-25.794444,22.685278,WHO,Kgalagadi South
+11412,1,Khawa Health Post,Health Post,Public,-26.280833,21.367222,WHO,Kgalagadi South
+11413,NA,Kokotsha Health Post,Health Post,Public,-24.92,23.221667,WHO,Kgalagadi South
+11415,1,Bogogobo Health Post,Health Post,Public,-26.661476,21.935845,Jacq,Kgalagadi South
+11416,NA,Vaalhoek Health Post,Health Post,Public,-26.867509,20.708943,Jacq,Kgalagadi South
+12201,NA,Tutume Primary Hospital,Primary Hospital,Public,-20.4901455,27.0454543,WHO,Tutume
+12202,NA,Gweta Primary Hospital,Primary Hospital,Public,-20.208304,25.246603,Ellie,Tutume
+12301,NA,Dukwi Clinic,Clinic,Public,-20.581428,26.497586,Ellie,Tutume
+12302,NA,Gweta Clinic,Clinic,Public,-20.2044735,25.2582336,WHO,Tutume
+12303,NA,Maitengwe Clinic,Clinic,Public,-20.128894,27.209968,WHO,Tutume
+12305,NA,Nata Clinic,Clinic,Public,-20.207702,26.186287,Ellie,Tutume
+12306,NA,Nkange Clinic,Clinic,Public,-20.298881,27.135593,WHO,Tutume
+12307,NA,Sebina Clinic,Clinic,Public,-20.836453,27.21998,Ellie,Tutume
+12309,NA,Marapong Clinic,Clinic,Public,-20.892847,27.072058,WHO,Tutume
+12310,NA,Thini clinic,Clinic,Public,-20.497638,27.019277,WHO,Tutume
+12311,NA,Sowa Township Clinic,Clinic,Public,-20.563611,26.224444,WHO,Tutume
+12312,NA,Soda Ash / Botash Clinic,Clinic,Public,-20.566587,26.223264,Ellie,Tutume
+12316,6,Nswazwi Clinic,Clinic,Public,-20.657957,27.231336,WHO,Tutume
+12317,NA,Mokgoro Clinic,Clinic,Public,-20.589202,26.530133,Ellie,Tutume
+12402,2,Dagwi Health Post,Health Post,Public,-20.31421,27.226792,Jacq,Tutume
+12403,NA,Dzoroga Health Post,Health Post,Public,-20.157443,25.796295,WHO,Tutume
+12404,1,Goshwe Health Post,Health Post,Public,-20.508889,27.202778,WHO,Tutume
+12405,NA,Lepashe Health Post,Health Post,Public,-20.834881,26.678834,Jacq,Tutume
+12406,2,Manxotae Health Post,Health Post,Public,-20.109544,26.375971,Jacq,Tutume
+12407,1,Maposa Health Post,Health Post,Public,-20.120733,26.213712,Jacq,Tutume
+12408,1,Changate Health Post,Health Post,Public,-20.324817,27.229093,WHO,Tutume
+12409,1,Matobo Health Post,Health Post,Public,-20.559727,27.115409,WHO,Tutume
+12410,6,Matsitama Health Post,Health Post,Public,-21.021596,26.685513,Jacq,Tutume
+12411,2,Senete Health Post,Health Post,Public,-20.326944,27.126111,WHO,Tutume
+12412,NA,Tsokotshaa Health Post,Health Post,Public,-20.102222,25.438611,WHO,Tutume
+12413,3,Mosetse Health Post,Health Post,Public,-20.650565,26.650818,WHO,Tutume
+12414,2,Nshakashokwe Health Post,Health Post,Public,-20.789666,27.18422,WHO,Tutume
+12416,NA,Sepako Health Post,Health Post,Public,-19.865278,26.494167,WHO,Tutume
+12420,3,Marobela Health Post,Health Post,Public,-20.868371,27.230136,WHO,Tutume
+12424,NA,Magapatona Health Post,Health Post,Public,-20.515811,27.058942,Ellie,Tutume
+12427,NA,Kutamogore Health Post,Health Post,Public,-20.748979,26.900439,Jacq,Tutume
+12428,NA,Semitwe Health Post,Health Post,Public,-20.940833,27.080278,WHO,Tutume
+13101,31,Orapa Hospital,NA,NA,-21.332091,25.365536000000002,Jacq,Boteti
+13201,NA,Rakops Primary Hospital,Primary Hospital,Public,-21.03791,24.4126719,WHO,Boteti
+13202,21,Letlhakane Primary Hospital,Primary Hospital,Public,-21.42097,25.58456,WHO,Boteti
+13302,NA,Mopipi Clinic,Clinic,Public,-21.2007056454,24.8608063272,WHO,Boteti
+13303,NA,Motopi Clinic,Clinic,Public,-20.21562,24.13093,WHO,Boteti
+13304,NA,De Beers Orapa( Morale)/Boitekanelo Clinic,Clinic,Public,-21.333873,25.370701,Jacq,Boteti
+13307,NA,De Beers DK1 Clinic,Clinic,Public,-21.51282,25.690016,Jacq,Boteti
+13308,4,Xhumo Clinic,Clinic,Public,-21.162778,24.608889,WHO,Boteti
+13311,1,Damtshaa Clinic,Clinic,Public,-21.31,25.536,WHO,Boteti
+13312,4,Mmatshumo Clinic,Clinic,Public,-21.145556,25.66,WHO,Boteti
+13401,NA,Kedia Health Post,Health Post,Public,-21.370108,24.723388,Jacq,Boteti
+13402,1,Khumaga Health Post,Health Post,Public,-20.470909,24.510257,WHO,Boteti
+13403,NA,Rakops Health Post,Health Post,Public,-21.028809,24.399154,Jacq,Boteti
+13404,1,Mmadikola Health Post,Health Post,Public,-21.04,24.466389,WHO,Boteti
+13405,NA,Khwee Health Post,Health Post,Public,-21.945,25.446389,WHO,Boteti
+13406,1,Moreomaoto Health Post,Health Post,Public,-20.238527,24.254334,WHO,Boteti
+13407,1,Mosu Health Post,Health Post,Public,-21.211953,26.022005,WHO,Boteti
+13408,1,Makoboxane Health Post,Health Post,Public,-21.260348,24.947425,WHO,Boteti
+13411,NA,Mokubilo Health Post,Health Post,Public,-21.2322182486,26.4264713248,WHO,Boteti
+14201,NA,Gumare Primary Hospital,Primary Hospital,Public,-19.371508,22.169488,Ellie,Okavango
+14301,NA,Etsha 6 Clinic,Clinic,Public,-19.113277,22.294935,Ellie,Okavango
+14302,NA,Seronga Clinic,Clinic,Public,-18.812778,22.416389,WHO,Okavango
+14303,NA,Shakawe Clinic,Clinic,Public,-18.36134,21.84611,WHO,Okavango
+14304,NA,Nokaneng Clinic,Clinic,Public,-19.664662,22.194693,Ellie,Okavango
+14305,NA,Qangwa Clinic,Clinic,Public,-19.530586,21.174731,Ellie,Okavango
+14306,NA,Xakao Clinic,Clinic,Public,-18.3075,21.889444,WHO,Okavango
+14307,NA,Gumare Clinic,Clinic,Public,-19.369167,22.161667,WHO,Okavango
+14308,NA,Etsha 13 Clinic,Clinic,Public,-19.016349,22.318473,Ellie,Okavango
+14309,NA,Sepopa Clinc,Clinic,Public,-18.733804,22.177339,Ellie,Okavango
+14311,NA,Beetsha Clinic,Clinic,Public,-18.723075,22.738614,WHO,Okavango
+14402,1,Etsha 1 Health Post,Health Post,Public,-19.1314,22.2924,WHO,Okavango
+14403,NA,Gunutsoga Health Post,Health Post,Public,-18.824457,22.605293,Jacq,Okavango
+14404,NA,Kauxwi Health Post,Health Post,Public,-18.2772222222,21.8352777778,WHO,Okavango
+14405,NA,Mogotho Health Post,Health Post,Public,-18.526481,22.153485,Jacq,Okavango
+14406,2,Habu Health Post,Health Post,Public,-19.863906,22.390471,Jacq,Okavango
+14407,1,Nxaunxau Health Post,Health Post,Public,-18.973056,21.301667,WHO,Okavango
+14409,NA,Tubu Health Post,Health Post,Public,-19.358472,22.283492,Jacq,Okavango
+14412,3,Ngarange Health Post,Health Post,Public,-18.396111,22.005,WHO,Okavango
+14414,NA,Nxamasere Health Post,Health Post,Public,-18.580803,21.992741,Ellie,Okavango
+14415,1,Ikoga Health Post,Health Post,Public,-18.866111,22.285,WHO,Okavango
+14416,NA,Xaxa Health Post,Health Post,Public,-19.882778,21.080556,WHO,Okavango
+14419,NA,Gudigwa Health Post,Health Post,Public,-18.60013,22.914213,Jacq,Okavango
+14420,NA,Sekondomboro Health Post,Health Post,Public,-18.351752,21.959844,WHO,Okavango
+14421,NA,Eretsha Health Post,Health Post,Public,-18.777416,22.685972,WHO,Okavango
+15101,NA,Princess Marina Referral Hospital,Referral Hospital,Public,-24.656042,25.925365,WHO,Gaborone
+15102,32,Gaborone Private Hospital,NA,NA,-24.629253999999996,25.933669,Jacq,Gaborone
+15301,3,BDF Village Clinic,Clinic,NA,-24.655999,25.946508,Jacq,Gaborone
+15302,NA,Bontleng Clinic,Clinic,Public,-24.66755,25.91608,Ellie,Gaborone
+15305,NA,Broadhurst Traditional Area Clinic,Clinic,Public,-24.63199,25.91665,Ellie,Gaborone
+15306,NA,Ext 14 Clinic,Clinic,Public,-24.67791,25.91206,Ellie,Gaborone
+15307,3,Ext 15 Clinic,Clinic,Public,-24.682988,25.881974,Jacq,Gaborone
+15308,NA,Old Naledi Clinic,Clinic,Public,-24.69008,25.89674,Ellie,Gaborone
+15310,NA,Tsholofelo /BH3 Clinic,Clinic,Public,-24.628198,25.943308,Jacq,Gaborone
+15311,NA,UB (Main Campus) Clinic,Clinic,Public,-24.659128,25.9351,Jacq,Gaborone
+15312,NA,Gaborone West Clinic,Clinic,Public,-24.660139,25.886556,Jacq,Gaborone
+15313,NA,Sebele Clinic,Clinic,Public,-24.588261,25.939368,Ellie,Gaborone
+15314,NA,Julia Molefe (Block 9) Clinic,Clinic,Public,-24.660863,25.871741,Ellie,Gaborone
+15315,NA,Phase 11 Clinic,Clinic,Public,-24.64589,25.89956,Ellie,Gaborone
+15316,NA,Ext 11 Clinic,Clinic,Public,-24.6433,25.896191,Jacq,Gaborone
+15318,NA,Botswana Family Welfare Association Youth Clinic,Clinic,Public,-24.668866,25.877532,Jacq,Gaborone
+15319,NA,UB (FET) Clinic,Clinic,Public,-24.662141,25.934671,Jacq,Gaborone
+15321,1,Glen Valley Clinic,Clinic,Public,-24.593246,25.956335,WHO,Gaborone
+15322,NA,Kgalagadi Breweries(Ltd)Clinic,Clinic,Public,-24.631652,25.918632,Jacq,Gaborone
+15323,NA,Segwana Clinic,Clinic,Public,-24.620843,25.909297,WHO,Gaborone
+15324,6,Block 6 /Botshelo Clinic,Clinic,Public,-24.668637,25.9068,WHO,Gaborone
+15325,NA,Kgatelopele (Block 8) Clinic,Clinic,Public,-24.606365,25.913691,WHO,Gaborone
+15326,NA,H & A Cutting Works Clinic,Clinic,Public,-24.590211,25.91219,Jacq,Gaborone
+15327,NA,Diamond Trading Company Clinic,Clinic,Public,-24.586298,25.914298,Jacq,Gaborone
+15328,NA,Metsimotlhabe Clinic,Clinic,Public,-24.547909,25.804029,Ellie,Gaborone
+15329,NA,Nkoyaphiri Clinic,Clinic,Public,-24.610844,25.853899,Ellie,Gaborone
+15330,NA,Mogoditshane Clinic,Clinic,Public,-24.626944,25.865556,WHO,Gaborone
+15331,NA,Lesirane Clinic,Clinic,Public,-24.647523,25.824373,Ellie,Gaborone
+15332,8,SSKB (Mogoditshane BDF) Clinic,NA,NA,-24.602802999999994,25.866855999999995,Jacq,Gaborone
+15333,NA,Gabane Clinic,Clinic,Public,-24.678236,25.782864,Ellie,Gaborone
+15334,1,Mmokolodi Clinic,Clinic,Public,-24.703713,25.815258,WHO,Gaborone
+15335,NA,Tlokweng Main Clinic,Clinic,Public,-24.66781,25.95718,WHO,Gaborone
+15336,NA,Mafitlhakgosi Clinic,Clinic,Public,-24.655767,25.970757,WHO,Gaborone
+15337,3,St. Joseph's Mission Clinic,Clinic,FBO,-24.714372000000004,25.871644000000003,Jacq,Gaborone
+15401,NA,Gabane Health Post,Health Post,Public,-24.6641274,25.78355,WHO,Gaborone
+15402,1,Tloaneng Health Post,Health Post,Public,-24.666667,25.8,WHO,Gaborone
+15403,NA,Mmopane Health Post,Health Post,Public,-24.5673092088,25.8738403787,WHO,Gaborone
+15404,NA,Khayakholo Health Post,Health Post,Public,-24.680894,25.952757,Ellie,Gaborone
+15405,NA,Nkaikela Health Post,Health Post,Public,-24.670153,25.980117,WHO,Gaborone
+15525,1,Dr L.D. Mahloane,Private Practitioner,NA,-24.680790000000002,25.927930000000003,Jacq,Gaborone
+16101,NA,Nyangabgwe Referral Hospital,Referral Hospital,Public,-21.173847,27.51852,WHO,Francistown
+16301,3,BDF Clinic,Clinic,NA,-21.158124,27.501821,Jacq,Francistown
+16302,NA,Botshelo Clinic,Clinic,Public,-21.1435,27.50038,Ellie,Francistown
+16303,NA,Tshwaragano Clinic,Clinic,Public,-21.14744,27.49568,WHO,Francistown
+16305,NA,Botsalano Clinic,Clinic,Public,-21.178244,27.500024,WHO,Francistown
+16306,NA,Botswelelo Clinic,Clinic,Public,-21.178453,27.521103,WHO,Francistown
+16307,NA,Lapologang Clinic,Clinic,Public,-21.145725,27.499336,Jacq,Francistown
+16308,NA,Tati Town Clinic,Clinic,Public,-21.16609,27.49664,WHO,Francistown
+16309,NA,Kagiso Clinic,Clinic,Public,-21.161191,27.493109,Jacq,Francistown
+16310,NA,Jubilee Clinic,Clinic,Public,-21.15722,27.5099,WHO,Francistown
+16311,NA,Masego Clinic,Clinic,Public,-21.202207,27.522363,WHO,Francistown
+16314,NA,Itekeng(Area W) Clinic,Clinic,Public,-21.174341,27.502974,WHO,Francistown
+16315,NA,Gerald Estates Clinic,Clinic,Public,-21.204471,27.44301,Jacq,Francistown
+16316,NA,Phase 6 Clinic/ Ntshe Clinic,Clinic,Public,-21.134721,27.498688,Jacq,Francistown
+16317,NA,Mater Spei College Clinic,Clinic,Public,-21.16899,27.5057,WHO,Francistown
+16318,17,Donga Clinic,Clinic,Public,-21.1771,27.5318,Jacq,Francistown
+16319,NA,Matsiloje Clinic,Clinic,Public,-21.297244,27.884937999999998,WHO,Francistown
+16320,2,Matshelagabedi Clinic,Clinic,Public,-21.118944,27.660009,Jacq,Francistown
+16321,14,Tati Siding Clinic,Clinic,Public,-21.276252,27.478782,Jacq,Francistown
+16322,33,Tonota Clinic,Clinic,Public,-21.44091,27.45762,WHO,Francistown
+16323,10,Serule Clinic,Clinic,Public,-21.91946,27.30136,WHO,Francistown
+16324,NA,Tonota College of Education Clinic,Clinic,Public,-21.46001,27.46283,WHO,Francistown
+16325,11,Mathangwane Clinic,Clinic,Public,-21,27.333333,WHO,Francistown
+16401,NA,Railway Health Post,Health Post,Public,-21.16577,27.508956,Jacq,Francistown
+16403,4,Mandunyane Health Post,Health Post,Public,-21.39512,27.443864,Jacq,Francistown
+16404,5,Manyanda Health Post,Health Post,Public,-21.441236,27.457105,WHO,Francistown
+16405,8,Madisakwane Health Post,Health Post,Public,-21.448921,27.476862,Jacq,Francistown
+16406,3,Mabesekwa Health Post,Health Post,Public,-21.306935,26.879248,Jacq,Francistown
+16407,13,Borolong Health Post,Health Post,Public,-21.103611,27.336111,WHO,Francistown
+16408,2,Natale Health Post,Health Post,Public,-21.100611,27.2293,WHO,Francistown
+16409,2,Chadibe/Tlhalogang Health Post,Health Post,Public,-21.0552750153,27.3504930851,WHO,Francistown
+16410,3,Shashe Mooke Health Post,Health Post,Public,-21.187778,27.378611,WHO,Francistown
+16411,2,Gojwane Health Post,Health Post,Public,-21.786727,27.277788,Jacq,Francistown
+16412,NA,Shashe Bridge Health Post,Health Post,Public,-21.3703416194,27.4513965309,WHO,Francistown
+16413,1,Makobo Health Post,Health Post,Public,-21.061401,27.244056,Jacq,Francistown
+17101,NA,Bamalete Lutheren District Hospital,District Hospital,FBO,-24.87283,25.88024,WHO,South East/Tlokweng
+17301,NA,Mogobane Clinic,Clinic,Public,-24.984183,25.696906,WHO,South East/Tlokweng
+17302,NA,Otse Clinic,Clinic,Public,-25.031026,25.748083,Ellie,South East/Tlokweng
+17303,NA,Ramotswa Station/Taung Clinic,Clinic,Public,-24.846954,25.823765,Ellie,South East/Tlokweng
+17304,NA,Siga Clinic,Clinic,Public,-24.885415,25.870732,WHO,South East/Tlokweng
+17305,3,St Condrads Clinic,Clinic,Public,-24.868014,25.871899,Jacq,South East/Tlokweng
+17308,NA,Lesetlhana Clinic,Clinic,Public,-24.8565,25.85715,WHO,South East/Tlokweng
+17404,NA,Mogobane Health Post,Health Post,Public,-24.96852,25.70246,WHO,South East/Tlokweng
+18101,NA,Lobatse-Athlone District Hospital,District Hospital,Public,-25.20668,25.6755,WHO,Lobatse
+18301,NA,BMC Clinic (factory),NA,NA,-25.219710000000003,25.679479999999998,Ellie,Lobatse
+18303,NA,Peleng Central Clinic,Clinic,Public,-25.22901,25.67773,WHO,Lobatse
+18304,NA,Peleng East Clinic,Clinic,Public,-25.231604,25.686884,Jacq,Lobatse
+18305,NA,Woodhall clinic,Clinic,Public,-25.20465,25.68609,WHO,Lobatse
+18307,NA,Tsopeng Clinic,Clinic,Public,-25.200422,25.696024,WHO,Lobatse
+18308,2,Motswedi Clinic,Clinic,Public,-25.2291,25.6951,WHO,Lobatse
+18309,NA,Digawana Clinic,Clinic,Public,-25.345356,25.562515,Ellie,Lobatse
+18310,NA,Molapowabojang Clinic,Clinic,Public,-25.201217,25.556455,WHO,Lobatse
+18311,NA,Lorwana Clinic,Clinic,Public,-25.299864,25.481914,Jacq,Lobatse
+19101,6,BCL Mine Hospital,NA,NA,-21.980014999999998,27.818082999999994,Jacq,Selibe Phikwe
+19102,23,Selibe Phikwe District Hospital,District Hospital,NA,-21.97286,27.83476,WHO,Selibe Phikwe
+19304,1,"BCL ""3rd Shaft"" First Aid Clinic",NA,NA,-21.93979,27.851609,Jacq,Selibe Phikwe
+19307,NA,Kagiso Clinic,Clinic,Public,-21.98486,27.82261,Ellie,Selibe Phikwe
+19308,NA,Sesame Clinic,Clinic,Public,-21.98588,27.81369,WHO,Selibe Phikwe
+19310,NA,South East Extension Clinic,Clinic,Public,-21.989059,27.854996,WHO,Selibe Phikwe
+20201,NA,Thebephatswa Primary Hospital,Primary Hospital,Public,-24.245279,25.331166,Ellie,Kweneng East
+20301,NA,Letlhakeng Clinic,Clinic,Public,-24.095833,25.029722,WHO,Kweneng East
+20302,NA,Motokwe Clinic,Clinic,Public,-24.059593,23.30195,Ellie,Kweneng East
+20303,NA,Ngware Clinic,Clinic,Public,-23.865556,25.368333,WHO,Kweneng East
+20304,NA,Salajwe Clinic,Clinic,Public,-23.7281815,24.58902,WHO,Kweneng East
+20305,NA,Takatokwane Clinic,Clinic,Public,-24.003896,24.308517,Ellie,Kweneng East
+20306,NA,Moshaweng Clinic,Clinic,Public,-24.514423,25.056617,Jacq,Kweneng East
+20307,2,Khudumelapye Clinic,Clinic,Public,-23.914502,24.947936,Jacq,Kweneng East
+20308,NA,Botlhapatlou Clinic,Clinic,Public,-24.022631,25.490522,Ellie,Kweneng East
+20402,NA,Ditshegwane Health Post,Health Post,Public,-24.166646,24.958427,Ellie,Kweneng East
+20403,NA,Dutlwe Health Post,Health Post,Public,-23.977391,23.926394,Ellie,Kweneng East
+20404,NA,Diphuduhudu Health Post,Health Post,Public,-23.67385,25.307222,Jacq,Kweneng East
+20405,NA,Kotoloname Health Post,Health Post,Public,-24.476384,25.277476,Jacq,Kweneng East
+20406,2,Maboane Health Post,Health Post,Public,-24.09611,24.531944,WHO,Kweneng East
+20407,NA,Malwelwe Health Post,Health Post,Public,-23.986683,25.249583,Jacq,Kweneng East
+20408,NA,Mantshwabisi Health Post,Health Post,Public,-24.181535,25.27636,Ellie,Kweneng East
+20409,1,Monwane Health Post,Health Post,Public,-24.316389,25.214167,WHO,Kweneng East
+20410,1,Kaudwane Health Post,Health Post,Public,-23.3844042,24.656328,WHO,Kweneng East
+20411,5,Sesung Health Post,Health Post,Public,-24.099999,24.9175,WHO,Kweneng East
+20412,NA,Tsetseng Health Post,Health Post,Public,-23.565776,23.064667,Jacq,Kweneng East
+20413,1,Sorilatholo Health Post,Health Post,Public,-23.636667,24.965278,WHO,Kweneng East
+20414,1,Tshwaane Health Post,Health Post,Public,-23.866803,23.672507,Jacq,Kweneng East
+20415,NA,Metsibotlhoko Health Post,Health Post,Public,-24.044048,24.868212,Jacq,Kweneng East
+20416,1,Serinane Health Post,Health Post,Public,-24.188628,25.201566,Jacq,Kweneng East
+21301,NA,Khakhea Clinic,Clinic,Public,-24.698804,23.505935,Jacq,Mabutsane
+21302,NA,Mabutsane Clinic,Clinic,Public,-24.3890414,23.5759735,WHO,Mabutsane
+21303,NA,Morwamosu Clinic,Clinic,Public,-24.091035,23.080724,Ellie,Mabutsane
+21305,2,Kokong Clinic,Clinic,Public,-24.344722,23.119444,WHO,Mabutsane
+21401,NA,Keng Health post,Health Post,Public,-24.598889,23.755,WHO,Mabutsane
+21402,NA,Khonkhwa Health post,Health Post,Public,-24.559719,23.858969,WHO,Mabutsane
+21404,NA,Itholoke Health post,Health Post,Public,-24.708787,23.633168,Jacq,Mabutsane
+21405,NA,Mahotshwane Health post,Health Post,Public,-24.417284,24.223244,Jacq,Mabutsane
+21406,NA,Sekoma Health post,Health Post,Public,-24.5152777778,23.9283333333,WHO,Mabutsane
+22101,22,Jwaneng Mine Hospital,NA,NA,-24.595822000000005,24.730793,Jacq,Jwaneng Town Council
+22303,NA,Tshimologo Clinic,Clinic,Public,-24.60312,24.72381,WHO,Jwaneng Town Council
+22304,NA,Ditsweletse Clinic,Clinic,Public,-24.610335,24.726304,Jacq,Jwaneng Town Council
+22305,NA,EU7 Clinic,Clinic,Public,-24.594554,24.745015,WHO,Jwaneng Town Council
+22306,NA,Maokane Clinic,Clinic,Public,-24.8980783026,24.626537917,WHO,Jwaneng Town Council
+22307,5,Sese Clinic,Clinic,Public,-24.6554981458,24.8055720998,WHO,Jwaneng Town Council
+22401,1,Thankane Health Post,Health Post,Public,-24.913914,24.230648,Jacq,Jwaneng Town Council
+22402,1,Samane Health Post,Health Post,Public,-24.781646,24.450582,Jacq,Jwaneng Town Council
+22403,1,Lefhoko Health Post,Health Post,Public,-24.835409,24.66745,WHO,Jwaneng Town Council
+22404,NA,Mokhomma Health Post,Health Post,Public,-24.7703,24.596149,WHO,Jwaneng Town Council
+22405,2,Tsonyane Health Post,Health Post,Public,-24.8618924532,24.82951048,WHO,Jwaneng Town Council
+23201,NA,Good Hope Primary Hospital,Primary Hospital,Public,-25.470153,25.444628,Ellie,Goodhope
+23302,NA,Hebron Clinic,Clinic,Public,-25.655321,25.401408,Ellie,Goodhope
+23303,NA,Mabule Clinic,Clinic,Public,-25.76233,24.553404,Ellie,Goodhope
+23304,NA,Metlobo Clinic,Clinic,Public,-25.435578,24.961646000000002,WHO,Goodhope
+23305,NA,Mmathethe Clinic,Clinic,Public,-25.321546,25.272028,Ellie,Goodhope
+23306,NA,Phitshane Molopo Clinic,Clinic,Public,-25.732994,25.093213,Ellie,Goodhope
+23307,NA,Pitsane Clinic,Clinic,Public,-25.473093,25.596479,Ellie,Goodhope
+23308,NA,Ramatlabama Clinic,Clinic,Public,-25.634258,25.538409,Ellie,Goodhope
+23309,NA,Tshidilamolomo Clinic,Clinic,Public,-25.8305555556,24.6886111111,WHO,Goodhope
+23311,1,Goodhope Clinic,Clinic,Public,-25.468396,25.417713,Jacq,Goodhope
+23401,NA,Cwaaanyaneng Health Post,Health Post,Public,-25.534186,25.318141,WHO,Goodhope
+23404,NA,Ditlharapa Health Post,Health Post,Public,-25.75603,25.293134,WHO,Goodhope
+23405,NA,Gathwane Health Post,Health Post,Public,-25.3919388889,25.4993888889,WHO,Goodhope
+23407,1,Kgoro Health Post,Health Post,Public,-25.436245,25.498099,Jacq,Goodhope
+23408,2,Leporung Health Post,Health Post,Public,-25.746869,24.976559,WHO,Goodhope
+23410,NA,Mogoriapitse Health Post,Health Post,Public,-25.441473,25.290568,Ellie,Goodhope
+23411,NA,Mmakgori Health Post,Health Post,Public,-25.811668,24.800858,WHO,Goodhope
+23413,1,Mokatako Health Post,Health Post,Public,-25.754929,25.220609,WHO,Goodhope
+23414,NA,Mokgomane Health Post,Health Post,Public,-25.554424,25.243202,WHO,Goodhope
+23416,1,Papatlo Health Post,Health Post,Public,-25.646744,25.502974,WHO,Goodhope
+23417,NA,Rakhuna Health Post,Health Post,Public,-25.559865,25.58159,Ellie,Goodhope
+23418,1,Sedibeng Health Post,Health Post,Public,-25.640619,25.13904,WHO,Goodhope
+23421,NA,Sekhutlane Health Post,Health Post,Public,-25.609759,24.534784,Ellie,Goodhope
+23422,NA,Tlhareseleele Health Post,Health Post,Public,-25.494867,25.641795,Jacq,Goodhope
+23425,NA,Sheep Farm Health Post,Health Post,Public,-25.54232,25.493875,Jacq,Goodhope
+23426,NA,Metlojane Health Post,Health Post,Public,-25.532313,25.367869,WHO,Goodhope
+23428,NA,Lejwana Health Post,Health Post,Public,-25.406453,25.538884,WHO,Goodhope
+24201,NA,Hukuntsi Primary Hospital,Primary Hospital,Public,-23.99845,21.7958,WHO,Kgalagadi North
+24301,NA,Hukuntsi Clinic,Clinic,Public,-23.998282,21.776315,Ellie,Kgalagadi North
+24302,NA,Kang Clinic,Clinic,Public,-23.671053,22.789036,Ellie,Kgalagadi North
+24401,NA,Ncaang Health Post,Health Post,Public,-23.441317,21.223307,Ellie,Kgalagadi North
+24402,NA,Inalegolo Health Post,Health Post,Public,-24.25486,22.894869,Jacq,Kgalagadi North
+24403,1,Lehututu Health Post,Health Post,Public,-23.91526,21.830563,Jacq,Kgalagadi North
+24404,NA,Lokgwabe Health Post,Health Post,Public,-24.096111,21.778056,WHO,Kgalagadi North
+24405,NA,Make Health Post,Health Post,Public,-23.6937342,21.7820601,WHO,Kgalagadi North
+24406,NA,Monong Health Post,Health Post,Public,-23.661075,21.512859,WHO,Kgalagadi North
+24407,NA,Tshane Health Post,Health Post,Public,-24.027548,21.86786,WHO,Kgalagadi North
+24408,NA,Phuduhudu Health Post,Health Post,Public,-23.954963,22.983918,WHO,Kgalagadi North
+24409,NA,Ukhwi Health Post,Health Post,Public,-23.556592,20.498591,Ellie,Kgalagadi North
+24410,NA,Zutshwa Health Post,Health Post,Public,-24.135585,21.258661,Jacq,Kgalagadi North
+25413,NA,Hunhukwe Health Post,Health Post,Public,-23.4147401,21.6018265,WHO,Kgalagadi North
+26302,NA,Manyana Clinic,Clinic,Public,-24.771901,25.58978,Ellie,Moshupa
+26304,19,Moshupa Council Clinic,Clinic,Public,-24.764706,25.410873,Jacq,Moshupa
+26305,9,Moshupa S.D.A Clinic,Clinic,Public,-24.790559,25.417276,WHO,Moshupa
+26306,3,Ntlhantlhe Clinic,Clinic,Public,-24.9619664259,25.5940976292,WHO,Moshupa
+26307,2,Pitseng Clinic,Clinic,Public,-24.690755448,25.0425186957,WHO,Moshupa
+26308,NA,Ranaka Clinic,Clinic,Public,-24.910935,25.462042,Ellie,Moshupa
+26404,5,Kgomokasitwa Health post,Health Post,Public,-25.091687,25.629592,Jacq,Moshupa
+26405,NA,Lekgolobotlo Health post,Health Post,Public,-24.90679,25.62949,Jacq,Moshupa
+26408,NA,Moshupa Health post,Health Post,Public,-24.773654,25.420213,Ellie,Moshupa
+26409,1,Ralekgetho Health post,Health Post,Public,-24.661165,25.165123,Jacq,Moshupa
+26413,NA,Sesung Health post,Health Post,Public,-24.88862,25.007706,Jacq,Moshupa
+26417,3,Magotlhwane  Health post,Health Post,Public,-24.9933681365,25.5872036815,WHO,Moshupa
+26418,NA,Mogonye Health post,Health Post,Public,-24.806936,25.708282,Jacq,Moshupa
+26419,NA,Seherelela Health post,Health Post,Public,-24.882722,24.9006,Jacq,Moshupa
+28301,NA,Charleshill Clinic,Clinic,Public,-22.275313,20.067892,Ellie,Charleshill
+28302,NA,Kalfontein Clinic,Clinic,Public,-22.154204,20.86656,Ellie,Charleshill
+28303,NA,Nojane Clinic,Clinic,Public,-23.137989,20.284389,Ellie,Charleshill
+28304,5,Karakubis Clinic,Clinic,Public,-22.09002,20.61585,WHO,Charleshill
+28403,NA,Makunda Health Post,Health Post,Public,-22.3872641196,20.1185881166,WHO,Charleshill
+28404,NA,Xanagas Health Post,Health Post,Public,-22.193148,20.318178,Jacq,Charleshill
+28405,NA,New Xanagas/Tsawe Health Post,Health Post,Public,-22.4308726472,20.6531696401,WHO,Charleshill
+28407,NA,Chobokwane Health Post,Health Post,Public,-22.154722,21.213889000000002,WHO,Charleshill
+29101,NA,Sekgoma Memorial District Hospital,District Hospital,Public,-22.424953,26.75904,Ellie,Serowe Administration Authority
+29302,NA,Serowe Clinic,Clinic,Public,-22.39128,26.70565,WHO,Serowe Administration Authority
+29303,NA,Mmashoro Clinic,Clinic,Public,-21.86818,26.4417,WHO,Serowe Administration Authority
+29304,NA,Newtown Clinic,Clinic,Public,-22.41497,26.73944,WHO,Serowe Administration Authority
+29305,NA,Nutrition Clinic,NA,NA,-22.412884,26.703133,Jacq,Serowe Administration Authority
+29307,NA,Moiyabana Clinic,Clinic,Public,-22.636445,26.398775,Ellie,Serowe Administration Authority
+29308,4,Mabeleapudi,Clinic,Public,-22.213555,26.833118,WHO,Serowe Administration Authority
+29310,9,Boipelego Clinic,Clinic,Public,-22.428889,26.697764,Jacq,Serowe Administration Authority
+29311,4,Thabala Clinic,Clinic,Public,-22.486389,26.427222,WHO,Serowe Administration Authority
+29401,1,Modikwane Health Post,Clinic,Public,-22.37536,26.69645,WHO,Serowe Administration Authority
+29402,4,Mogorosi Health Post,Clinic,Public,-22.436667,26.565556,WHO,Serowe Administration Authority
+29403,7,Paje Health Post,Clinic,Public,-22.272222,26.79,WHO,Serowe Administration Authority
+29404,2,Tsimoyapula Health Post,Clinic,Public,-22.11872,26.92893,WHO,Serowe Administration Authority
+29407,NA,Malatswai Health Post,Clinic,Public,-21.815229,25.937433,Jacq,Serowe Administration Authority
